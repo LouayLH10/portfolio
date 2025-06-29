@@ -111,7 +111,7 @@ function Resume() {
             <ul>
               <li><strong>Description:</strong> Company showcase website for industrial maintenance services</li>
               <li><strong>Tools:</strong> ReactJS, CSS</li>
-              <li><strong>Link:</strong> <a href="https://louaylh10.github.io/ilm_ind.tn/" target="_blank" rel="noopener">View Project</a></li>
+              <li><strong>Link:</strong> <a href="https://louaylh10.github.io/lim_ind.tn/" target="_blank" rel="noopener">View Project</a></li>
             </ul>
           </div>
 
