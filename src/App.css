@@ -459,6 +459,7 @@ h6 {
   [data-aos-delay] {
     transition-delay: 0 !important;
   }
+
 }
 
 /*--------------------------------------------------------------
@@ -594,11 +595,11 @@ section,
 
 @media (max-width: 768px) {
   .hero h2 {
-    font-size: 32px;
+    font-size: 27px;
   }
 
   .hero p {
-    font-size: 20px;
+    font-size: 17px;
   }
 }
 
